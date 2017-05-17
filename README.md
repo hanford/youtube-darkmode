@@ -1,6 +1,8 @@
-## Youtube Darkmode
+<h1 align='center'>Youtube Darkmode</h1>
 
-Enable youtube's new Material UI theme, and also enable native dark mode.
+<p align='center'>
+  <strong>Enable youtube's new Material UI theme, and also enable native dark mode.</strong>
+</p>
 
 [Chrome Store](https://chrome.google.com/webstore/detail/youtube-darkmode/ajngaombckgmodafdnmipfmcfgppnnhp) | [Landing Page](https://jackhanford.com/youtube-darkmode)
 
