@@ -1,10 +1,14 @@
 <h1 align='center'>Youtube Darkmode</h1>
 
 <p align='center'>
-  <strong>Enable youtube's new Material UI theme, and also enable native dark mode.</strong>
+  <div>Enable youtube's new Material UI theme, and also enable native dark mode.</div>
+  <br />
+  <a href='https://chrome.google.com/webstore/detail/youtube-darkmode/ajngaombckgmodafdnmipfmcfgppnnhp'>Chrome Store</a> |
+  <a href='https://jackhanford.com/youtube-darkmode'>Landing Page</a>
 </p>
 
-[Chrome Store](https://chrome.google.com/webstore/detail/youtube-darkmode/ajngaombckgmodafdnmipfmcfgppnnhp) | [Landing Page](https://jackhanford.com/youtube-darkmode)
+<br />
+<br />
 
 ![preview](https://github.com/hanford/youtube-darkmode/blob/master/preview.gif)
 
