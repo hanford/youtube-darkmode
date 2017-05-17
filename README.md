@@ -2,7 +2,7 @@
 
 Enable youtube's new Material UI theme, and also enable native dark mode.
 
-<!-- [Chrome Store](https://chrome.google.com/webstore/detail/dffakiimcpeogagieklcdchklmghdnhd) | [Landing Page](https://jackhanford.com/instachrome) -->
+[Chrome Store](https://chrome.google.com/webstore/detail/youtube-darkmode/ajngaombckgmodafdnmipfmcfgppnnhp) | [Landing Page](https://jackhanford.com/youtube-darkmode)
 
 ![preview](https://github.com/hanford/youtube-darkmode/blob/master/preview.gif)
 
