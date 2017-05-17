@@ -5,7 +5,7 @@ Storage.local.get('hasCookieSet', data => {
   if (keys.length === 0) {
 
     // Set the cookie!
-    document.cookie="VISITOR_INFO1_LIVE=fPQ4jCL6EiE"
+    document.cookie = "VISITOR_INFO1_LIVE=fPQ4jCL6EiE"
 
     Storage.local.set({'hasCookieSet': true}, () => {
       const confirm = window.confirm('We\'ll need to refresh the page once 🍪')
